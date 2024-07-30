@@ -6,7 +6,7 @@ require (
 	github.com/aws/aws-sdk-go v1.44.213
 	github.com/aws/aws-sdk-go-v2/config v1.18.15
 	github.com/aws/aws-sdk-go-v2/service/lambda v1.30.0
-	github.com/gorilla/mux v1.8.0
+	github.com/spf13/pflag v1.0.5
 )
 
 require (
